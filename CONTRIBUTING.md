@@ -23,17 +23,17 @@ This project and everyone participating in it is governed by the [HaTeMiLe for J
 
 This section guides you through submitting a bug report for HaTeMiLe for JEE.
 
-Before submitting a bug report check if you're using the latest version of HaTeMiLe for JEE and [ensure the bug was not already reported](https://github.com/carlsonsantana/hatemile-jee/issues).
+Before submitting a bug report check if you're using the latest version of HaTeMiLe for JEE and [ensure the bug was not already reported](https://github.com/hatemile/hatemile-jee/issues).
 
-If you're unable to find an open issue addressing the problem, [open a new one](https://github.com/carlsonsantana/hatemile-jee/issues/new).
+If you're unable to find an open issue addressing the problem, [open a new one](https://github.com/hatemile/hatemile-jee/issues/new).
 
 ## Request new feature
 
 This section guides you through request new feature for HaTeMiLe for JEE.
 
-Before submitting a request feature check if you're using the latest version of HaTeMiLe for Java and [ensure the feature was not already requested](https://github.com/carlsonsantana/hatemile-jee/issues).
+Before submitting a request feature check if you're using the latest version of HaTeMiLe for Java and [ensure the feature was not already requested](https://github.com/hatemile/hatemile-jee/issues).
 
-If you're unable to find an open issue requesting this feature, [open a new one](https://github.com/carlsonsantana/hatemile-jee/issues/new).
+If you're unable to find an open issue requesting this feature, [open a new one](https://github.com/hatemile/hatemile-jee/issues/new).
 
 ## Translating
 

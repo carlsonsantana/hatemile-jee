@@ -4,12 +4,12 @@ HaTeMiLe for JEE is a library that help developers to convert a HTML code in a c
 
 ## Accessibility solutions
 
-* [Associate HTML elements](https://github.com/carlsonsantana/HaTeMiLe-for-Java/wiki/Associate-HTML-elements);
-* [Provide a polyfill to CSS Speech and CSS Aural properties](https://github.com/carlsonsantana/HaTeMiLe-for-Java/wiki/Provide-a-polyfill-to-CSS-Speech-and-CSS-Aural-properties);
-* [Display inacessible informations of page](https://github.com/carlsonsantana/HaTeMiLe-for-Java/wiki/Display-inacessible-informations-of-page);
-* [Enable all functionality of page available from a keyboard](https://github.com/carlsonsantana/HaTeMiLe-for-Java/wiki/Enable-all-functionality-of-page-available-from-a-keyboard);
-* [Improve the acessibility of forms](https://github.com/carlsonsantana/HaTeMiLe-for-Java/wiki/Improve-the-acessibility-of-forms);
-* [Provide accessibility resources to navigate](https://github.com/carlsonsantana/HaTeMiLe-for-Java/wiki/Provide-accessibility-resources-to-navigate).
+* [Associate HTML elements](https://github.com/hatemile/HaTeMiLe-for-Java/wiki/Associate-HTML-elements);
+* [Provide a polyfill to CSS Speech and CSS Aural properties](https://github.com/hatemile/HaTeMiLe-for-Java/wiki/Provide-a-polyfill-to-CSS-Speech-and-CSS-Aural-properties);
+* [Display inacessible informations of page](https://github.com/hatemile/HaTeMiLe-for-Java/wiki/Display-inacessible-informations-of-page);
+* [Enable all functionality of page available from a keyboard](https://github.com/hatemile/HaTeMiLe-for-Java/wiki/Enable-all-functionality-of-page-available-from-a-keyboard);
+* [Improve the acessibility of forms](https://github.com/hatemile/HaTeMiLe-for-Java/wiki/Improve-the-acessibility-of-forms);
+* [Provide accessibility resources to navigate](https://github.com/hatemile/HaTeMiLe-for-Java/wiki/Provide-accessibility-resources-to-navigate).
 
 ## Documentation
 
@@ -37,7 +37,7 @@ To generate the full API documentation of HaTeMiLe for JEE:
 
 ```xml
     <dependency>
-        <groupId>com.github.carlsonsantana</groupId>
+        <groupId>com.github.hatemile</groupId>
         <artifactId>hatemile-jee</artifactId>
 	    <version>1.0.0</version>
     </dependency>
@@ -59,7 +59,7 @@ To generate the full API documentation of HaTeMiLe for JEE:
 **Step 2.** Add the dependency
 ```gradle
     dependencies {
-            compile 'com.github.carlsonsantana:hatemile-jee:1.0.0'
+            compile 'com.github.hatemile:hatemile-jee:1.0.0'
     }
 ```
 
@@ -74,7 +74,7 @@ To generate the full API documentation of HaTeMiLe for JEE:
 **Step 2.** Add the dependency
 
 ```schala
-    libraryDependencies += "com.github.carlsonsantana" % "hatemile-jee" % "1.0.0"
+    libraryDependencies += "com.github.hatemile" % "hatemile-jee" % "1.0.0"
 ```
 
 ### Leiningen
@@ -88,7 +88,7 @@ To generate the full API documentation of HaTeMiLe for JEE:
 **Step 2.** Add the dependency
 
 ```clojure
-    :dependencies [[com.github.carlsonsantana/hatemile-jee "1.0.0"]]
+    :dependencies [[com.github.hatemile/hatemile-jee "1.0.0"]]
 ```
 
 ## Usage
@@ -263,5 +263,5 @@ The configuration path of HaTeMiLe for Java, without properties extension.
 If you want contribute with HaTeMiLe for JEE, read [contributing guidelines](CONTRIBUTING.md).
 
 ## See also
-* [HaTeMiLe for Java](https://github.com/carlsonsantana/HaTeMiLe-for-Java)
-* [HaTeMiLe for JavaScript](https://github.com/carlsonsantana/HaTeMiLe-for-JavaScript)
+* [HaTeMiLe for Java](https://github.com/hatemile/hatemile-for-java)
+* [HaTeMiLe for JavaScript](https://github.com/hatemile/hatemile-for-javascript)

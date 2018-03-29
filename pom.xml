@@ -12,7 +12,7 @@
         HaTeMiLe for JEE is a library that help developers to convert a HTML
         code in a code more accessible for Java EE web applications.
     </description>
-    <url>https://github.com/carlsonsantana/hatemile-jee</url>
+    <url>https://github.com/hatemile/hatemile-jee</url>
 
     <licenses>
         <license>
@@ -23,14 +23,14 @@
     </licenses>
         
     <scm>
-        <url>https://github.com/carlsonsantana/hatemile-jee</url>
-        <connection>scm:git:git://github.com/carlsonsantana/hatemile-jee.git</connection>
-        <developerConnection>scm:git:git@github.com:carlsonsantana/hatemile-jee.git</developerConnection>
+        <url>https://github.com/hatemile/hatemile-jee</url>
+        <connection>scm:git:git://github.com/hatemile/hatemile-jee.git</connection>
+        <developerConnection>scm:git:git@github.com:hatemile/hatemile-jee.git</developerConnection>
     </scm>
         
     <issueManagement>
         <system>GitHub Issues</system>
-        <url>https://github.com/carlsonsantana/hatemile-jee/issues</url>
+        <url>https://github.com/hatemile/hatemile-jee/issues</url>
     </issueManagement>
 
     <developers>
@@ -59,7 +59,7 @@
             <scope>provided</scope>
         </dependency>
         <dependency>
-            <groupId>com.github.carlsonsantana</groupId>
+            <groupId>com.github.hatemile</groupId>
             <artifactId>HaTeMiLe-for-Java</artifactId>
             <version>2.2.0</version>
         </dependency>
